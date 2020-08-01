@@ -2,7 +2,7 @@ import json
 import random
 import time
 import sys
-sys.setExecutionLimit(600000) # let this take up to 10 minutes
+#sys.setExecutionLimit(600000) # let this take up to 10 minutes
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 VOWELS  = 'AEIOU'
